@@ -1,1 +1,1 @@
-# super-hero
+# SuperHero
